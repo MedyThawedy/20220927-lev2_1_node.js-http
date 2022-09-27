@@ -1,0 +1,10 @@
+body {
+    background-color: aliceblue;
+    color: darkblue;
+    font-size: 30px;
+}
+
+.clsNav {
+    display: flex;
+    gap: 10px;
+}
